@@ -12,6 +12,13 @@
   {% assign title = post.title %}
 {% endif %}
 
+{% if post.image %}
+  <div style="margin-bottom:10px;">
+    <img src="{{ post.image }}" alt="paper image" style="width:200px; border-radius:10px;">
+  </div>
+{% endif %}
+
+
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
