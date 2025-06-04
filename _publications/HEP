@@ -6,7 +6,7 @@ permalink: /publication/HEP
 date: 2025-07-01
 excerpt: 'A hierarchical framework for equivariant policy learning.'
 paperurl: 'https://arxiv.org/pdf/2502.05728'
-citation: 'Haibo Zhao*, Dian Wang*, **Yizhe Zhu**, Xupeng Zhu, Owen Howell, Linfeng Zhao, Yaoyao Qian, Robin Walters, Robert Platt. (2025). "Hierarchical Equivariant Policy via Frame Transfer." ICML 2025.'
+citation: 'Haibo Zhao*, Dian Wang*, <b>Yizhe Zhu</b>, Xupeng Zhu, Owen Howell, Linfeng Zhao, Yaoyao Qian, Robin Walters, Robert Platt. (2025). "Hierarchical Equivariant Policy via Frame Transfer." ICML 2025.'
 venue: 'ICML 2025'
 image: '/images/icml2024.png'
 ---
