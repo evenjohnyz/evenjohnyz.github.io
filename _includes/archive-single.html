@@ -1,11 +1,5 @@
 {% include base_path %}
 
-{% if post.header.teaser %}
-  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
-{% else %}
-  {% assign teaser = site.teaser %}
-{% endif %}
-
 {% if post.id %}
   {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
 {% else %}
@@ -27,16 +21,8 @@
       {% endif %}
     </h2>
 
-    {% if post.collection == 'publications' %}
-      <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
-    {% endif %}
-
-    {% if post.excerpt %}
-      <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
-    {% endif %}
-
     {%- comment -%}
-    ---- 只显示 citation 内容，无按钮、无前缀 ----
+    ---- 只显示 citation 内容，无 venue，无 date，无摘要 ----
     {%- endcomment -%}
     {% if post.citation %}
       <p>{{ post.citation }}</p>
