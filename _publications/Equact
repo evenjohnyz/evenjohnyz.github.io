@@ -6,6 +6,6 @@ permalink: /publication/Equact
 date: 2025-07-01
 excerpt: 'A hierarchical framework for equivariant policy learning.'
 paperurl: 'https://arxiv.org/pdf/2505.21351v1'
-citation: 'Xupeng Zhu, <b>Yizhe Zhu*</b>,Yu Qi*, Robin Walters, Robert Platt. "EquAct: An SE(3)-Equivariant Multi-Task Transformer for Open-Loop Robotic Manipulation." Preprint.'
-image: '/yizhezhu0925/images/Equact.png'
+citation: 'Xupeng Zhu, Yu Qi*,<b>Yizhe Zhu*</b>, Robin Walters, Robert Platt. "EquAct: An SE(3)-Equivariant Multi-Task Transformer for Open-Loop Robotic Manipulation." Preprint.'
+image: '/yizhezhu0925/images/equact.png'
 ---
