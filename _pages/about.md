@@ -172,4 +172,4 @@ document.addEventListener("DOMContentLoaded", function() {
 
 ## Education
 - (2024&nbsp;–&nbsp;present) M.S. in Robotics, Northeastern University, MA
-- (2020&nbsp;–&nbsp;2024) B.Eng. in Computer Science, Xi'an Jiaotong-Liverpool University, China
+- (2020&nbsp;–&nbsp;2024) B.Eng. in Robotics, Xi'an Jiaotong-Liverpool University, China
