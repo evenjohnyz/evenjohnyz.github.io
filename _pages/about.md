@@ -157,11 +157,9 @@ document.addEventListener("DOMContentLoaded", function() {
 </p>
 <div style="clear: both;"></div>
 
-For additional publications, see the <a href="{{ '/publications/' | relative_url }}">publications</a> page.
-
 ## Service
 - Add service contributions, reviewing roles, or outreach activities.
 
 ## Education
-- (Year&nbsp;–&nbsp;Year) Degree, Institution, Location
-- (Year&nbsp;–&nbsp;Year) Degree, Institution, Location
+- (2024&nbsp;–&nbsp;present) M.S. in Robotics, Northeastern University, MA
+- (2020&nbsp;–&nbsp;2024) B.Eng. in Computer Science, Xi'an Jiaotong-Liverpool University, China
