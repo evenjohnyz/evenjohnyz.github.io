@@ -131,13 +131,26 @@ document.addEventListener("DOMContentLoaded", function() {
 
 ## Selected Publications
 <div class="project-img-container">
+  <img src="{{ 'images/Bear.png' | relative_url }}" alt="Hierarchical Equivariant Policy teaser">
+</div>
+<p>
+  <a href="https://arxiv.org/pdf/2510.08759" style="text-decoration: none; color: inherit;">
+    <strong>BEAR: Benchmarking and Enhancing Multimodal Language Models for Atomic Embodied Capabilities</strong>
+  </a><br />
+  Yu Qi, Haibo Zhao, Ziyu Guo, Siyuan Ma, Ziyan Chen, Yaokun Han, Renrui Zhang, Zitiantao Lin, Shiji Xin, Yijian Huang, Kai Cheng, Peiheng Wang, Jiazheng Liu, Jiayi Zhang, <strong>Yizhe Zhu</strong>, Wenqing Wang, Yiran Qin, Xupeng Zhu, Haojie Huang, Lawson L.S. Wong<br />
+  <em>Preprint</em><br />
+  <button class="button-cta" onclick="window.open('https://arxiv.org/pdf/2510.08759','_blank')">PDF</button>
+</p>
+<div style="clear: both;"></div>
+
+<div class="project-img-container">
   <img src="{{ 'images/equact.png' | relative_url }}" alt="EquAct teaser">
 </div>
 <p>
   <a href="https://arxiv.org/pdf/2505.21351v1" style="text-decoration: none; color: inherit;">
     <strong>EquAct: An SE(3)-Equivariant Multi-Task Transformer for Open-Loop Robotic Manipulation</strong>
   </a><br />
-  Xupeng Zhu, Yu Qi*, <strong>Yizhe Zhu*</strong>, Robin Walters, Robert Platt<br />
+  Xupeng Zhu,<strong>Yizhe Zhu*</strong>, Yu Qi*, Robin Walters, Robert Platt<br />
   <em>Preprint, 2025</em><br />
   <button class="button-cta" onclick="window.open('https://arxiv.org/pdf/2505.21351v1','_blank')">PDF</button>
 </p>
@@ -156,9 +169,6 @@ document.addEventListener("DOMContentLoaded", function() {
   <button class="button-cta" onclick="window.open('https://arxiv.org/pdf/2502.05728','_blank')">PDF</button>
 </p>
 <div style="clear: both;"></div>
-
-## Service
-- Add service contributions, reviewing roles, or outreach activities.
 
 ## Education
 - (2024&nbsp;–&nbsp;present) M.S. in Robotics, Northeastern University, MA
