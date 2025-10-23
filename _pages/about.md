@@ -131,7 +131,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
 ## Selected Publications
 <div class="project-img-container">
-  <img src="{{ '/images/equact.png' | relative_url }}" alt="EquAct teaser">
+  <img src="{{ 'images/equact.png' | relative_url }}" alt="EquAct teaser">
 </div>
 <p>
   <a href="https://arxiv.org/pdf/2505.21351v1" style="text-decoration: none; color: inherit;">
@@ -144,7 +144,7 @@ document.addEventListener("DOMContentLoaded", function() {
 <div style="clear: both;"></div>
 
 <div class="project-img-container">
-  <img src="{{ '/images/icml2024.png' | relative_url }}" alt="Hierarchical Equivariant Policy teaser">
+  <img src="{{ 'images/icml2024.png' | relative_url }}" alt="Hierarchical Equivariant Policy teaser">
 </div>
 <p>
   <a href="https://arxiv.org/pdf/2502.05728" style="text-decoration: none; color: inherit;">
