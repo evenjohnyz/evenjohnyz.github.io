@@ -131,13 +131,13 @@ document.addEventListener("DOMContentLoaded", function() {
 
 ## Selected Publications
 <div class="project-img-container">
-  <img src="{{ 'images/GSL.png' | relative_url }}" alt="Generalizable Hierarchical Skill Learning">
+  <img src="{{ 'images/GSL.mp4' | relative_url }}" alt="Generalizable Hierarchical Skill Learning">
 </div>
 <p>
   <a href="https://arxiv.org/pdf/2502.05728" style="text-decoration: none; color: inherit;">
     <strong>Generalizable Hierarchical Skill Learning via Object-Centric Representation</strong>
   </a><br />
-   Haibo Zhao, Yu Qi*, Boce Hu, <strong>Yizhe Zhu</strong>, Ziyan Chen, Xupeng Zhu, Owen Howell, Haojie Huang, Robin Walters, Dian Wang*, Robert Platt* <br />
+   Haibo Zhao, Yu Qi, Boce Hu, <strong>Yizhe Zhu</strong>, Ziyan Chen, Xupeng Zhu, Owen Howell, Haojie Huang, Robin Walters, Dian Wang*, Robert Platt* <br />
   <em>Preprint</em><br />
   <button class="button-cta" onclick="window.open('https://codemasterzhao.github.io/GSL/','_blank')">PDF</button>
 </p>
