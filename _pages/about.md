@@ -153,6 +153,7 @@ document.addEventListener("DOMContentLoaded", function() {
   </a><br />
   Yu Qi, Haibo Zhao, Ziyu Guo, Siyuan Ma, Ziyan Chen, Yaokun Han, Renrui Zhang, Zitiantao Lin, Shiji Xin, Yijian Huang, Kai Cheng, Peiheng Wang, Jiazheng Liu, Jiayi Zhang, <strong>Yizhe Zhu</strong>, Wenqing Wang, Yiran Qin, Xupeng Zhu, Haojie Huang, Lawson L.S. Wong<br />
   <em>Preprint</em><br />
+  <button class="button-cta" onclick="window.open('https://bear-official66.github.io/','_blank')">Project</button>
   <button class="button-cta" onclick="window.open('https://arxiv.org/pdf/2510.08759','_blank')">PDF</button>
 </p>
 <div style="clear: both;"></div>
