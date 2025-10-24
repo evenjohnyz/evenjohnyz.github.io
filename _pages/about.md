@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Assistant in the [Helping Hands Lab](https://www2.ccs.neu.edu/research/helpinghands/) at Northeastern University, working with Professor [Robert Platt](https://www2.ccs.neu.edu/research/helpinghands/people/). My research explores data-efficient robot learning and closed-loop control for contact-rich manipulation, with an emphasis on equivariant representations for policy learning.
+I am a Master Student in the [Helping Hands Lab](https://www2.ccs.neu.edu/research/helpinghands/) at Northeastern University, working with Professor [Robert Platt](https://www2.ccs.neu.edu/research/helpinghands/people/). My research explores data-efficient robot learning and closed-loop control for contact-rich manipulation, with an emphasis on equivariant representations for policy learning.
 
 <p class="contact-links">
   <a href="mailto:zhu.yizhe@northeastern.edu"><i class="far fa-envelope icon-pad-right" aria-hidden="true"></i>Email</a> /
@@ -130,6 +130,20 @@ document.addEventListener("DOMContentLoaded", function() {
 <a id="news-more" href="javascript:void(0)">more ▾</a>
 
 ## Selected Publications
+<div class="project-img-container">
+  <img src="{{ 'images/GSL.png' | relative_url }}" alt="Generalizable Hierarchical Skill Learning">
+</div>
+<p>
+  <a href="https://arxiv.org/pdf/2502.05728" style="text-decoration: none; color: inherit;">
+    <strong>Generalizable Hierarchical Skill Learning via Object-Centric Representation</strong>
+  </a><br />
+   Haibo Zhao, Yu Qi*, Boce Hu, <strong>Yizhe Zhu</strong>, Ziyan Chen, Xupeng Zhu, Owen Howell, Haojie Huang, Robin Walters, Dian Wang*, Robert Platt* <br />
+  <em>Preprint</em><br />
+  <button class="button-cta" onclick="window.open('https://codemasterzhao.github.io/GSL/','_blank')">PDF</button>
+</p>
+<div style="clear: both;"></div>
+
+
 <div class="project-img-container">
   <img src="{{ 'images/Bear.png' | relative_url }}" alt="Hierarchical Equivariant Policy teaser">
 </div>
