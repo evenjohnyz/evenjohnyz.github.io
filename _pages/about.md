@@ -139,7 +139,8 @@ document.addEventListener("DOMContentLoaded", function() {
   </a><br />
    Haibo Zhao, Yu Qi, Boce Hu, <strong>Yizhe Zhu</strong>, Ziyan Chen, Xupeng Zhu, Owen Howell, Haojie Huang, Robin Walters, Dian Wang*, Robert Platt* <br />
   <em>Preprint</em><br />
-  <button class="button-cta" onclick="window.open('https://codemasterzhao.github.io/GSL/','_blank')">PDF</button>
+  <button class="button-cta" onclick="window.open('https://codemasterzhao.github.io/GSL/','_blank')">Project</button>
+  <button class="button-cta" onclick="window.open('https://arxiv.org/pdf/2510.21121','_blank')">PDF</button>
 </p>
 <div style="clear: both;"></div>
 
