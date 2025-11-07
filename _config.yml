@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
+site_theme               : "air" # Currently available options are "default", "air"
 title                    : "Zhang Ye"
 title_separator          : "-"
 name                     : &name "Zhang Ye"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Zhang Ye"
   pronouns         : # example: "she/her"  
-  bio              : "Graduate student at Northeastern University."
+  bio              : "Master student at Northeastern University."
   location         : "Boston, Massachusetts"
   employer         : "Northeastern University"
   uri              : # URL
