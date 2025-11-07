@@ -14,7 +14,6 @@ My research focuses on robotic manipulation, tactile sensing, and exoskeleton sy
   <a href="mailto:ye.zhang1@northeastern.edu"><i class="far fa-envelope icon-pad-right" aria-hidden="true"></i>Email</a> /
   <a href="https://scholar.google.com/"><i class="fas fa-graduation-cap icon-pad-right" aria-hidden="true"></i>Google Scholar</a> /
   <a href="https://github.com/evenjohnyz"><i class="fab fa-github icon-pad-right" aria-hidden="true"></i>GitHub</a> /
-  <a href="https://linkedin.com/in/ye-zhang-robotics"><i class="fab fa-linkedin icon-pad-right" aria-hidden="true"></i>LinkedIn</a>
 </p>
 
 ## Research Interests
