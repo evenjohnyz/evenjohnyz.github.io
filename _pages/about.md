@@ -119,3 +119,10 @@ document.addEventListener("DOMContentLoaded", function() {
   });
 });
 </script>
+
+## News
+<ul id="news-list">
+  <li>12/2024: Joined the <a href="https://www2.ccs.neu.edu/research/helpinghands/">Helping Hands Lab</a> at <strong>Northeastern University</strong> as a graduate researcher advised by Prof. Robert Platt.</li>
+  <li>12/2024: Joined Northeastern University Robotics program.</li>
+<a id="news-more" href="javascript:void(0)">more ▾</a>
+
