@@ -21,3 +21,86 @@ My research focuses on robotic manipulation, tactile sensing, and exoskeleton sy
 - Tactile perception and in-hand pose estimation for dexterous manipulation  
 - Imitation learning and policy generalization across embodiments  
 
+<style>
+#news-list {
+  margin-bottom: 0;
+}
+#news-list li:nth-child(n+6) {
+  display: none;
+}
+#news-more {
+  cursor: pointer;
+  color: #52adc8;
+  margin-left: 1.5em;
+  margin-top: 0;
+  display: inline-block;
+}
+.contact-links a {
+  text-decoration: none;
+  margin-right: 0.35em;
+}
+.contact-links .icon-pad-right {
+  margin-right: 0.3em;
+}
+.project-img-container {
+  width: 220px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  float: right;
+  margin-left: 1em;
+  margin-bottom: 0.5em;
+  background: transparent;
+}
+.project-img-container img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+.button-cta {
+  appearance: none;
+  background-color: #fafbfc;
+  border: 1px solid rgba(27, 31, 35, 0.15);
+  border-radius: 6px;
+  box-shadow: rgba(27, 31, 35, 0.04) 0 1px 0, rgba(255, 255, 255, 0.25) 0 1px 0 inset;
+  box-sizing: border-box;
+  color: #24292e;
+  cursor: pointer;
+  display: inline-block;
+  font-family: -apple-system, system-ui, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 20px;
+  padding: 4px 8px;
+  transition: background-color 0.2s cubic-bezier(0.3, 0, 0.5, 1);
+  margin-right: 0.3em;
+  margin-bottom: 0.4em;
+}
+.button-cta:hover {
+  background-color: #f3f4f6;
+  text-decoration: none;
+  transition-duration: 0.1s;
+}
+.button-cta:active {
+  background-color: #edeff2;
+  box-shadow: rgba(225, 228, 232, 0.2) 0 1px 0 inset;
+  transition: none 0s;
+}
+.button-cta:focus {
+  outline: 1px transparent;
+}
+@media (max-width: 600px) {
+  .project-img-container {
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1em;
+    width: 100%;
+  }
+  .project-img-container img {
+    width: 90vw;
+    max-width: 320px;
+    height: auto;
+  }
+}
+</style>
