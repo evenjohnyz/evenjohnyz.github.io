@@ -105,3 +105,17 @@ My research focuses on robotic manipulation, tactile sensing, and exoskeleton sy
   }
 }
 </style>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  var showMore = document.getElementById("news-more");
+  if (!showMore) return;
+  showMore.addEventListener("click", function() {
+    var hiddenItems = document.querySelectorAll('#news-list li:nth-child(n+6)');
+    hiddenItems.forEach(function(item) {
+      item.style.display = 'list-item';
+    });
+    showMore.style.display = 'none';
+  });
+});
+</script>
