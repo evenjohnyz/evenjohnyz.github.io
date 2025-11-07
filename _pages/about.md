@@ -21,6 +21,7 @@ My research focuses on robotic manipulation, tactile sensing, and exoskeleton sy
 - Tactile perception and in-hand pose estimation for dexterous manipulation  
 - Imitation learning and policy generalization across embodiments  
 
+## News
 <style>
 #news-list {
   margin-bottom: 0;
